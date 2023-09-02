@@ -5,11 +5,12 @@
 	height:100vh;
 	display:flex;
 		justify-content:center;
+	align-item:center;
 	
 }
 .item-1{
 	background-color:red;
-	align-self:center;
+	
 	
 }
 .item{
